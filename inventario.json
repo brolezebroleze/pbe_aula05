@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "item": "Notebook Alienware M15 R7",
+        "local": "Laboratório 01",
+        "dataRegistro": "2026-09-10",
+        "valor": 9000.00,
+        "patrimonio": "PAT-00125"
+    },
+    {
+        "id": 2,
+        "item": "Monitor Samsung Odyssey G9",
+        "local": "Laboratório 05",
+        "dataRegistro": "2026-05-09",
+        "valor": 6700.00,
+        "patrimonio": "PAT-00126"
+    },
+    {
+        "id": 3,
+        "item": "Teclado Logitech G915 X TKL",
+        "local": "Laboratório 02",
+        "dataRegistro": "2025-04-07",
+        "valor": 1100.00,
+        "patrimonio": "PAT-00127"
+    },
+    {
+        "id": 4,
+        "item": "Mouse Razer Viper V3",
+        "local": "Laboratório 04",
+        "dataRegistro": "2026-09-10",
+        "valor": 400.00,
+        "patrimonio": "PAT-00128"
+    }
+]
